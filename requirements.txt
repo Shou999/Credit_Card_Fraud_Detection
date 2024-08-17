@@ -1,8 +1,6 @@
 pickleshare==0.7.5
-pandas==1.5.3
-numpy==1.23.5
-scikit-learn== 1.2.1
-imbalanced-learn==0.10.1
-Pillow== 10.0.1
-streamlit==1.37.1
-setuptools
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.1 
+imbalanced-learn==0.12.3
+Pillow==10.4.0
